@@ -2,7 +2,7 @@
 # 🔐 Intrusion Detection System using Machine Learning
 
 > Final project for the **Network Security** course — Computer Engineering Degree, Polytechnic School of Basic Sciences, Academic Year 2023/2024  
-> **Student:** Francesco Pio Manna — `M63001485`
+> **Student:** Francesco Pio Manna
 
 ## 📘 Project Overview
 
